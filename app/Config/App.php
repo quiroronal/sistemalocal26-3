@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    public string $baseURL = 'http://localhost/sistemalocal26-3/public/';
+    public string $baseURL = 'PS C:\wamp64\www\sistemalocal26-3>;
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
